@@ -1,7 +1,8 @@
 /* 
  * File:   application.c
- * Author: Ahmed.Elghafar
- * https://www.linkedin.com/in/ahmedabdelghafarmohammed/
+ * Author: Mohamed_Nagy
+ * https://www.linkedin.com/in/mohamednagyofficial/
+ * Created on January 27, 2023, 8:41 PM
  */
 
 #include "application.h"
